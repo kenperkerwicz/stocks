@@ -1,0 +1,11 @@
+/Users/apple/workspace/csharp/Stocks/bin/Debug/netcoreapp2.2/Stocks.deps.json
+/Users/apple/workspace/csharp/Stocks/bin/Debug/netcoreapp2.2/Stocks.runtimeconfig.json
+/Users/apple/workspace/csharp/Stocks/bin/Debug/netcoreapp2.2/Stocks.runtimeconfig.dev.json
+/Users/apple/workspace/csharp/Stocks/bin/Debug/netcoreapp2.2/Stocks.dll
+/Users/apple/workspace/csharp/Stocks/bin/Debug/netcoreapp2.2/Stocks.pdb
+/Users/apple/workspace/csharp/Stocks/obj/Debug/netcoreapp2.2/Stocks.csprojAssemblyReference.cache
+/Users/apple/workspace/csharp/Stocks/obj/Debug/netcoreapp2.2/Stocks.csproj.CoreCompileInputs.cache
+/Users/apple/workspace/csharp/Stocks/obj/Debug/netcoreapp2.2/Stocks.AssemblyInfoInputs.cache
+/Users/apple/workspace/csharp/Stocks/obj/Debug/netcoreapp2.2/Stocks.AssemblyInfo.cs
+/Users/apple/workspace/csharp/Stocks/obj/Debug/netcoreapp2.2/Stocks.dll
+/Users/apple/workspace/csharp/Stocks/obj/Debug/netcoreapp2.2/Stocks.pdb
